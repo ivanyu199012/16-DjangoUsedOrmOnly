@@ -1,7 +1,7 @@
 # Using Django ORM only without web server
 
 ## Detail Guide
-[Using Django ORM only without web server]()
+[Using Django ORM only without web server](https://ivanyu2021.hashnode.dev/using-django-orm-only-without-web-server)
 
 ## Requirements
 - Python 3.10.11
